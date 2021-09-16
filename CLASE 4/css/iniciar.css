@@ -95,7 +95,7 @@
 .cronometro{
     width:200px;
     height:100px;
-    top:50%;
+    top:65%;
     left:50%;
     position:absolute;
     margin-top:-50px;
@@ -109,7 +109,6 @@
   position:relative;
 }
 #hms{
-    margin-top: 50px;
     height:68px;
     padding:5px 0;
     font-size:50px;
@@ -118,7 +117,8 @@
  }
 
 .icon {
-  margin-top: 2em;
+  display: block;
+  margin: auto;
   text-align: center;
 }
 .calculo{
